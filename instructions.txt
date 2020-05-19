@@ -1,0 +1,18 @@
+Create add.sol
+Create interact.js to create a transaction using web3
+in the pwd npm install web3 and solc
+start ganache
+run interact.js
+
+
+
+
+install truffle
+create a dir cd into it
+truffle init
+change the contents in migration
+truffle compile --- will compile all the sol files in the migration folder
+truffle develop
+this will push your 
+
+truffle migrate --network=<name>
